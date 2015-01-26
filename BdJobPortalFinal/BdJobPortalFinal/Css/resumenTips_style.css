@@ -1,0 +1,33 @@
+﻿.info_div {
+  float:left;
+  width:60%;
+  height:200px;
+  clear:left;
+  margin-top:80px;
+  margin-left:20%;
+  border:1px solid blue;
+  border-radius:10px;
+  background-color:silver;
+   
+}
+.info_div_title {
+    float:left;
+    margin-left:25%;
+    font-family:Arial,Helvetica,sans-serif;
+    font-weight:bolder;
+    clear:right;
+    /*font-size:18px;*/
+    border-bottom:5px solid black;
+   
+    
+}
+.pagelinks {
+   margin-left:5%;
+    text-decoration:none;
+    display:block;
+    color:black;
+    float:left;
+    font-family:Arial,Helvetica,sans-serif;
+    line-height:1.5em;
+
+}

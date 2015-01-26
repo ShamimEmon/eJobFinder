@@ -1,0 +1,34 @@
+﻿h1 {
+    float:left;
+    margin-top:5%;
+    margin-left:25%;
+    font-weight:bolder;
+    border-bottom:5px solid black;
+    
+}
+h3 {
+    float:left;
+    margin-top:5%;
+    margin-left:5%;
+    font-weight:bolder;
+    border-bottom:5px solid black;
+    clear:left;
+}
+.col{
+    width:80%;
+    margin:15px;
+    line-height:1.5em;
+    
+    float:left;
+    margin-left:5%;
+    clear:left;
+
+}
+.list {
+    float:left;
+    margin:25px;
+    margin-left:15px;
+    line-height:1.5em;
+    font-weight:bolder;
+    clear:right;
+}

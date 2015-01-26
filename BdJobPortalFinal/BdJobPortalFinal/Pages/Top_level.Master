@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Top_level.master.cs" Inherits="BdJobPortalFinal.Pages.Top_level" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <!--<asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>-->
+    <link rel="stylesheet" href="../Css/master_style.css" />
+</head>
+<body>
+    
+    <header>
+      
+       <img class="logo" src="../Images/logo.jpg"/> 
+    
+    </header>
+    <aside></aside>
+    <div class="content_wrapper">
+   
+     <nav>
+        <ul class="main_menu">
+            <li class="main_menu_item"><a class="div_link" href="About_us.aspx">About Us</a></li>
+            <li class="main_menu_item"><a class="div_link" href="Default.aspx">Home</a></li>
+            <li class="main_menu_item"><a class="div_link" href="Default.aspx">Login</a>
+                <ul class="sub_menu">
+                    <li class="sub_menu_item"><a class="inner_div_link" href="Corporate_login.aspx">Corporate</a></li>
+                    <li class="sub_menu_item"><a class="inner_div_link" href="job_seeker_login.aspx">Job Seeker</a></li>
+                </ul>
+            </li>
+            <li class="main_menu_item"><a class="div_link" href="Default.aspx">Career Resource</a>
+
+                 <ul class="sub_menu">
+                    <li class="sub_menu_item"><a class="inner_div_link" href="ResumenTips.aspx">Resume,Tips</a></li>
+                    <li class="sub_menu_item"><a class="inner_div_link" href="Useful_links.aspx">Useful Links</a></li>
+                </ul>
+            </li>
+            <li class="main_menu_item"><a class="div_link" href="Default.aspx">Contact Us</a></li>
+        </ul>
+       
+    </nav>
+    
+   <div class="cover_image">
+       <img class="cover" src="../Images/cover6.jpg"/> 
+    </div>
+     <div class="dynamic_div">
+    <asp:ContentPlaceHolder   ID="ContentPlaceHolder1" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    </div>
+        
+  
+    </div>
+    <aside></aside>
+    <footer>
+        <p class="footer_text">@eJobFinder-2014</p>
+    </footer>
+    
+       
+</body>
+</html>

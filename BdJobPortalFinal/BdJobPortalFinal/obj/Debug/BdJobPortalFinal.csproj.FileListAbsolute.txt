@@ -1,0 +1,5 @@
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\bin\BdJobPortalFinal.dll
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\bin\BdJobPortalFinal.pdb
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.csprojResolveAssemblyReference.cache
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.dll
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.pdb

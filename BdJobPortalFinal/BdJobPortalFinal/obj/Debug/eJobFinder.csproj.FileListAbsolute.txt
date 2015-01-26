@@ -1,0 +1,15 @@
+D:\Myworkspace\ASP.NET\eJobFinder\BdJobPortalFinal\bin\BdJobPortalFinal.dll
+D:\Myworkspace\ASP.NET\eJobFinder\BdJobPortalFinal\bin\BdJobPortalFinal.pdb
+D:\Myworkspace\ASP.NET\eJobFinder\BdJobPortalFinal\obj\Debug\eJobFinder.csprojResolveAssemblyReference.cache
+D:\Myworkspace\ASP.NET\eJobFinder\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.dll
+D:\Myworkspace\ASP.NET\eJobFinder\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.pdb
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\bin\BdJobPortalFinal.dll
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\bin\BdJobPortalFinal.pdb
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\eJobFinder.csprojResolveAssemblyReference.cache
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.dll
+D:\Myworkspace\ASP.NET\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.pdb
+D:\eJobFinderFinalV1.1\BdJobPortalFinal\BdJobPortalFinal\bin\BdJobPortalFinal.dll
+D:\eJobFinderFinalV1.1\BdJobPortalFinal\BdJobPortalFinal\bin\BdJobPortalFinal.pdb
+D:\eJobFinderFinalV1.1\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\eJobFinder.csprojResolveAssemblyReference.cache
+D:\eJobFinderFinalV1.1\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.dll
+D:\eJobFinderFinalV1.1\BdJobPortalFinal\BdJobPortalFinal\obj\Debug\BdJobPortalFinal.pdb

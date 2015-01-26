@@ -1,0 +1,28 @@
+﻿.box {
+    float:left;
+    width:80%;
+    height:150px;
+    border:1px solid silver;
+    margin-left:10%;
+    margin-top:10%;
+}
+.title {
+    float:left;
+    width:98%;
+    height:25px;
+    border-bottom:1px solid silver;
+    background-color:whitesmoke;
+    font-weight:bold;
+    padding:1%;
+}
+.heading {
+    float:left;
+    margin-left:5px;
+}
+.desc {
+    float:left;
+    margin-left:5px;
+    clear:left;
+    padding:0px;
+    margin-bottom:5px;
+}

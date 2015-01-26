@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Corporate.master.cs" Inherits="BdJobPortalFinal.Pages.Corporate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link rel="stylesheet" href="../Css/master_style.css" />
+</head>
+<body>
+    
+    <header>
+      
+       <img class="logo" src="../Images/logo.jpg"/> 
+    
+    </header>
+    <aside></aside>
+    <div class="content_wrapper">
+   
+     <nav>
+        <ul class="main_menu">
+            <li class="corporate_main_menu_item"><a class="div_link" href="Corporate_job_home.aspx">Job</a></li>
+            <li class="corporate_main_menu_item"><a class="div_link" href="Search_employee.aspx">View Cv</a></li>
+            <li class="corporate_main_menu_item"><a class="div_link" href="PostList.aspx">View Application</a></li>
+            <li class="corporate_main_menu_item"><a class="div_link" href="Corporate_home_account.aspx">Account</a></li>
+        </ul>
+       
+    </nav>
+    
+   <div class="cover_image">
+       <img class="cover" src="../Images/cover6.jpg"/> 
+    </div>
+     <div class="dynamic_div">
+     <div class="logout_div">
+        <form method="post">
+            <button value="Logout" name="lb" id="lb" class="logoutbutton">Logout</button>
+        </form>
+        
+     </div>
+    <asp:ContentPlaceHolder   ID="ContentPlaceHolder1" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    </div>
+        
+  
+    </div>
+    <aside></aside>
+    <footer>
+        <p class="footer_text">@eJobFinder-2014</p>
+    </footer>
+    
+       
+</body>
+</html>
+

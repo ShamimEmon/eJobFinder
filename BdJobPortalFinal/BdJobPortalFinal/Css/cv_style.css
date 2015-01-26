@@ -1,0 +1,51 @@
+﻿.title_div {
+    float:left;
+    width:40%;
+    height:300px;
+    margin-left:40%;
+    margin-top:10px;
+
+}
+.title_tag {
+    float:left;
+    clear:left;
+    margin-left:10%;
+    line-height:.5em;
+    margin-bottom:30px;
+}
+.mobile_tag {
+    float:left;
+    clear:left;
+    margin-left:0%;
+    line-height:.5em;
+    margin-top:0px;
+}
+.email_tag {
+    float:left;
+    clear:left;
+    line-height:.5em;
+    margin-top:0px;
+}
+.postal_tag {
+    float:left;
+    clear:left;
+    line-height:1.5em;
+}
+.tag {
+    margin-left:0%;
+    
+}
+.other_div {
+    float:left;
+    width:95%;
+    clear:left;
+    margin-left:5%;
+}
+.cv_div {
+    float:left;
+    margin:5%;
+    background-color:whitesmoke;
+    width:90%;
+    height:1800px;
+    border:1px solid black;
+}

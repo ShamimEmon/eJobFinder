@@ -1,0 +1,98 @@
+﻿.update_form {
+    float:left;
+    margin-left:30%;
+    margin-top:10%;
+    background-color:aqua;
+    width:48%;
+    height:250px;
+    padding:10px;
+    border-left:2px outset silver;
+    border-right:1px inset silver;
+    border-bottom-right-radius:130px;
+    color:white;
+    font-weight:bolder;
+    background-image:url("../Images/sony-ericsson-xperia-arc-wallpaper-red.png");
+
+   
+}
+.update_form2 {
+    float:left;
+    margin-left:10%;
+    margin-top:10%;
+    background-color:aqua;
+    width:70%;
+    height:400px;
+    padding:10px;
+    border-left:2px outset silver;
+    border-right:1px inset silver;
+    border-bottom-right-radius:130px;
+    color:white;
+    font-weight:bolder;
+    background-image:url("../Images/sony-ericsson-xperia-arc-wallpaper-red.png");  
+}
+.acc_err_div {
+    float:left;
+    width:40%;
+    height:150px;
+    background-color:wheat;
+    color:red;
+    font-weight:bolder;
+    margin-left:30%;
+    margin-top:3%;
+    padding:5%;
+}
+.tag {
+    float:left;
+    clear:left;
+    width:30%;
+    margin-left:5%;
+    line-height:2em;
+}
+.tag2{
+    float:left;
+    clear:left;
+    width:30%;
+    margin-left:55%;
+    line-height:2em;
+    font-weight:bolder;
+}
+
+.current {
+    float:left;
+    margin-top:4%;
+     line-height:2em;   
+     width:60%;
+     text-align:center;
+}
+.update_btn
+ {
+    float:left;
+    clear:left;
+    height:35px;
+    width:150px;
+    background-color:red;
+    color:white;
+    padding:3px;
+    margin-left:5%;
+    border:1px outset silver;
+    line-height:1.5em;
+    font-weight:bolder;
+    background-color:#000000;
+    border:2px outset black;
+}
+.update_btn2
+ {
+    float:left;
+    height:35px;
+    width:130px;
+    background-color:red;
+    color:white;
+    padding:3px;
+    margin-left:1%;
+    margin-top:5%;
+    border:1px outset silver;
+    line-height:1.5em;
+    font-weight:bolder;
+    background-color:#000000;
+    border:2px outset black;
+}
